@@ -1,0 +1,109 @@
+body{
+    background-color: black;
+}
+
+.Reg{
+    font-size: 25px;
+    position: relative;
+    left: 100px;
+    bottom: 770px;
+    color: white;
+    opacity: 70%;
+}
+
+a:link{
+    color: wheat;
+}
+
+a:visited{
+    color: yellow;
+}
+
+.Home{
+    font-size: 25px;
+    position: relative;
+    left: 400px;
+    bottom: 820px;
+    color: white;
+    opacity: 70%;
+}
+
+.About{
+    font-size: 25px;
+    position: relative;
+    left: 500px;
+    bottom: 870px;
+    color: white;
+    opacity: 70%;
+}
+
+a:link{
+    color: wheat;
+}
+
+a:visited{
+    color: yellow;
+}
+
+.Contact{
+    font-size: 25px;
+    position: relative;
+    left: 600px;
+    bottom: 920px;
+    color: white;
+    opacity: 70%;
+}
+
+a:visited{
+    color: yellow;
+}
+
+.Events{
+    font-size: 25px;
+    position: relative;
+    left: 720px;
+    bottom: 969px;
+    color: white;
+    opacity: 70%;
+}
+
+.comp{
+    font-size: 90px;
+    position: relative;
+    left: 100px;
+    bottom: 860px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    opacity: 70%;
+}
+
+.sci{
+    font-size: 80px;
+    position: relative;
+    left: 100px;
+    bottom: 970px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    opacity: 70%;
+}
+
+img{
+    position: relative;
+    left: 950px;
+    bottom: 1350px;
+}
+
+.bg{
+    position: relative;
+    left: 0px;
+    opacity: 100%;
+    bottom: 5px;
+    opacity: 20%;
+}
+
+.logo{
+    position: relative;
+    left: 360px;
+    opacity: 100%;
+    bottom: 1970px;
+}

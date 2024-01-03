@@ -1,0 +1,159 @@
+body{
+    background-color: black;
+}
+
+h1{
+    font-size: 90px;
+    font-family: monospace;
+    color: white;
+    position: relative;
+    bottom: 890px;
+}
+
+.first-img{
+    opacity: 60%;
+}
+
+.first{
+    position: relative;
+    bottom: 900px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.second-img{
+    opacity: 60%;
+    position: relative;
+    bottom: 890px;
+}
+
+.second{
+    position: relative;
+    bottom: 1600px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.third-img{
+    opacity: 60%;
+    position: relative;
+    bottom: 1540px;
+}
+
+.third{
+    position: relative;
+    bottom: 2300px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.fourth-img{
+    opacity: 60%;
+    position: relative;
+    bottom: 2190px;
+}
+
+.fourth{
+    position: relative;
+    bottom: 3000px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.fifth-img{
+    opacity: 60%;
+    position: relative;
+    bottom: 2850px;
+}
+
+.fifth{
+    position: relative;
+    bottom: 3600px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.sixth-img{
+    opacity: 60%;
+    position: relative;
+    bottom: 4000px;
+}
+
+.sixth{
+    position: relative;
+    bottom: 3400px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.seventh-img{
+    opacity: 60%;
+    position: relative;
+    bottom: 4160px;
+}
+
+.seventh{
+    position: relative;
+    bottom: 4000px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.eighth-img{
+    opacity: 60%;
+    position: relative;
+    bottom: 4810px;
+}
+
+.eighth{
+    position: relative;
+    bottom: 4700px;
+    width: 80%;
+    border-collapse: collapse;
+    border: 1px solid white;
+    color: white;
+    font-size: 25px;
+    text-align: center;
+    font-family: monospace;
+}
+
+.ninth-img{
+    opacity: 60%;
+    position: relative;
+    bottom: 5460px;
+}
